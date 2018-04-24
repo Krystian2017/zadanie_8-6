@@ -1,4 +1,4 @@
-var a = prompt('Enter a'),
+var 	a = prompt('Enter a'),
 	b = prompt('Enter b'),
 	value = (a * a) - (2 * a * b) - (b * b);
 
